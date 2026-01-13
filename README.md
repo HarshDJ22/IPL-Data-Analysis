@@ -53,3 +53,9 @@ Built a user-friendly Tableau dashboard and documented insights for GitHub and p
 
 
 ## Dashboard
+
+
+<img width="1919" height="1092" alt="Screenshot 2026-01-13 114812" src="https://github.com/user-attachments/assets/f1145f5c-6a15-420a-9201-8b28e15d5e0b" /><br>
+<img width="1919" height="1082" alt="Screenshot 2026-01-13 114825" src="https://github.com/user-attachments/assets/9863fff6-ef75-4a4c-8a1b-876eebd35ecc" />
+
+
