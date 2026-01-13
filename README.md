@@ -59,3 +59,7 @@ Built a user-friendly Tableau dashboard and documented insights for GitHub and p
 <img width="1919" height="1082" alt="Screenshot 2026-01-13 114825" src="https://github.com/user-attachments/assets/9863fff6-ef75-4a4c-8a1b-876eebd35ecc" />
 
 
+## Final Conclusion
+The IPL Data Analysis project uses Tableau to convert IPL match data (2008–2020) into an interactive dashboard, providing clear insights into team performance, player statistics, and match trends through effective data visualization.
+
+
