@@ -10,3 +10,46 @@ This project demonstrates practical skills in data analysis, data visualization,
 ## Dataset used
 -<a href = "https://github.com/HarshDJ22/IPL-Data-Analysis/blob/main/IPL%20Matches%202008-2020.csv">IPL MATCHES DATA</a><br>
 -<a href = "https://github.com/HarshDJ22/IPL-Data-Analysis/blob/main/IPL%20Ball-by-Ball%202008-2020.csv"> Ball-by-Ball Data</a>
+
+
+## Questions KPIS 
+
+- Which team has the highest win percentage?
+- Who are the top run scorers and wicket takers each season?
+- Does winning the toss impact match results?
+- Which venues are most successful for teams?
+- How do team performances vary season-wise?
+- Total Seasons Analyzed: 13 (2008–2020)
+- Total Matches Played: Overall number of IPL matches in the dataset
+- Total Teams Participated: Unique IPL franchises across seasons
+- Total Venues: Number of stadiums hosting IPL matches
+- Season-wise Champions: Winning team of each IPL season
+
+
+## Dashboard-Interaction 
+<a href ="https://github.com/HarshDJ22/IPL-Data-Analysis/blob/main/Screenshot%202026-01-13%20114812.png">View Dashboard 1</a><br>
+<a href ="https://github.com/HarshDJ22/IPL-Data-Analysis/blob/main/Screenshot%202026-01-13%20114825.png">View Dashboard 2</a>
+
+
+
+## Process
+
+1.	Data Collection
+Collected IPL match data (2008–2020) in CSV format from a reliable source.
+2.	Data Cleaning & Preparation
+Cleaned the dataset by handling missing values, correcting inconsistencies, and formatting columns for analysis.
+3.	Data Import in Tableau
+Imported the cleaned IPL dataset into Tableau Desktop for visualization.
+4.	KPI Definition
+Identified key KPIs such as total matches, team win percentage, top run scorers, and wicket takers.
+5.	Dashboard Design
+Created interactive visualizations using charts, tables, KPIs, and filters for season, team, and venue.
+6.	Insight Generation
+Analyzed trends and patterns related to team performance, player achievements, toss impact, and venue success.
+7.	Final Dashboard & Presentation
+Built a user-friendly Tableau dashboard and documented insights for GitHub and project presentation.
+
+
+
+
+## Dashboard
