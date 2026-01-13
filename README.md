@@ -1,4 +1,4 @@
-Project Introduction
+## Project Introduction
 
 The IPL Analysis Dashboard is an interactive data visualization project developed using Tableau to analyze and present key insights from historical Indian Premier League (IPL) cricket data. With the increasing importance of data-driven decision-making in sports analytics, this project focuses on converting complex match and player statistics into clear, meaningful, and visually engaging dashboards.
 
@@ -8,5 +8,5 @@ This project demonstrates practical skills in data analysis, data visualization,
 
 
 ## Dataset used
-<a href = "https://github.com/HarshDJ22/IPL-Data-Analysis/blob/main/IPL%20Matches%202008-2020.csv">IPL MATCHES DATA</a>
+<a href = "https://github.com/HarshDJ22/IPL-Data-Analysis/blob/main/IPL%20Matches%202008-2020.csv">IPL MATCHES DATA</a></n>
 <a href = "https://github.com/HarshDJ22/IPL-Data-Analysis/blob/main/IPL%20Ball-by-Ball%202008-2020.csv"> Ball-by-Ball Data</a>
