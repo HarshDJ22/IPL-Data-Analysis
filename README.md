@@ -8,5 +8,5 @@ This project demonstrates practical skills in data analysis, data visualization,
 
 
 ## Dataset used
-<a href = "https://github.com/HarshDJ22/IPL-Data-Analysis/blob/main/IPL%20Matches%202008-2020.csv">IPL MATCHES DATA</a><t>
+<a href = "https://github.com/HarshDJ22/IPL-Data-Analysis/blob/main/IPL%20Matches%202008-2020.csv">IPL MATCHES DATA</a><br>
 <a href = "https://github.com/HarshDJ22/IPL-Data-Analysis/blob/main/IPL%20Ball-by-Ball%202008-2020.csv"> Ball-by-Ball Data</a>
